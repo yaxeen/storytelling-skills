@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Skills](https://img.shields.io/badge/skills-7-blue.svg)](skills/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-8A2BE2.svg)](https://claude.com/claude-code)
+[![Package skills](https://github.com/yaxeen/storytelling-skills/actions/workflows/package-skills.yml/badge.svg)](https://github.com/yaxeen/storytelling-skills/actions/workflows/package-skills.yml)
 
 A suite of seven [Claude Code](https://claude.com/claude-code) skills that apply the same six psychology-based storytelling levers across every content format — short-form video, long-form YouTube, titles & thumbnails, carousels, email, and website wireframes.
 
@@ -111,7 +112,11 @@ storytelling-skills/
 
 ## Development
 
-Edit a skill under `skills/<name>/SKILL.md`, then rebuild the packaged versions:
+Edit a skill under `skills/<name>/SKILL.md`. On push to `main`, a
+[GitHub Action](.github/workflows/package-skills.yml) automatically rebuilds
+`dist/*.skill` and commits the result, so the packages never drift from source.
+
+To rebuild locally (e.g. before a PR):
 
 ```powershell
 ./scripts/package.ps1
