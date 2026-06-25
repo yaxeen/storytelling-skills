@@ -1,0 +1,11 @@
+# Normalize line endings
+* text=auto
+
+# Shell scripts must stay LF so they run on macOS/Linux
+*.sh text eol=lf
+
+# Windows scripts use CRLF
+*.ps1 text eol=crlf
+
+# Treat packaged skills as binary (zip archives)
+*.skill binary

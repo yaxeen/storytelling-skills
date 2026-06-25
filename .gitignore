@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Local Claude Code settings (not part of the published suite)
+.claude/
+
+# Internal design/brainstorm docs (not part of the published suite)
+docs/superpowers/
+
+# Scratch
+scratchpad/
+*.tmp
