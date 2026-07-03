@@ -58,6 +58,7 @@ description: Use when writing email or newsletter subject lines, preview text, o
 - The preview text is a **second line of the hook**, shown next to the subject.
 - Make it *extend* the subject's gap, never restate it.
 - If left empty, clients pull the first body line — so write it deliberately.
+- Clients truncate preview text too (~40–90 chars visible): keep it under ~90 and put the essential idea in the first ~40.
 
 ## The Opening Line
 
@@ -73,7 +74,7 @@ description: Use when writing email or newsletter subject lines, preview text, o
 
 ## The CTA
 
-- **One** action per email. Competing CTAs split attention and kill clicks.
+- **One** action per email. Competing CTAs split attention and kill clicks. Repeating the *same* link/action (mid-body, end, P.S.) still counts as one CTA — repetition is fine, competition isn't.
 - Make it specific and low-friction ("Reply 'yes'", "Grab your spot", one link).
 - Optionally bookend: echo the subject's phrase right before the CTA.
 

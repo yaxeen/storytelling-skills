@@ -34,7 +34,8 @@ description: Use when writing a multi-slide carousel post for Instagram, LinkedI
 | Best CTA | Save (reference value) | Comment — comments drive LinkedIn reach more than saves |
 | Caption | Hook line + compressed story + 3–5 hashtags | First-person story opening; 2–3 hashtags max |
 
-- Posting to both? Write **one core deck + a short adaptation layer** per platform (headline variant, CTA variant, density note) — don't design twice.
+- Posting to both? Write **one core deck + a short adaptation layer** per platform (headline variant, CTA variant, density note, and its own caption + hashtags) — don't design twice.
+- Slide count from a list: N items → N value beats + hook + stakes + payoff = **N + 3 slides**.
 
 ## Slide Map (Quick Reference)
 

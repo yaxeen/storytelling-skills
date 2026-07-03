@@ -28,13 +28,14 @@ description: Use when reviewing or critiquing an existing website wireframe, lan
 
 ## Intake (Before Reviewing)
 
-- A review without context grades against guesses. Confirm first: the page's **one conversion goal**, the target visitor in a sentence, and the main traffic source. Ask if missing when the user can respond; otherwise state your assumed goal explicitly — every finding depends on it.
+- A review without context grades against guesses. Know before reviewing: the page's **one conversion goal**, the target visitor in a sentence, and the main traffic source.
+- If these are inferable from the request (a freelancer's services page → goal is inquiries), state your assumptions inline and proceed; only ask first when the goal is genuinely undecidable — don't block a review on intake theater.
 
 ## Review Process
 
 1. **5-second test:** Look only at the hero. Can you state what it offers and what to do next? If not, that's finding #1.
 2. **Scroll the arc:** Does it move hook → problem → solution → proof → offer → objections → CTA? Note any missing or out-of-order section.
-3. **Score each axis** per section (works / weak / missing).
+3. **Score each axis** per section (works / weak / missing) — an internal diagnostic pass, not a grid to render in the output.
 4. **Trace the eye:** Is hierarchy guiding to headline → value → CTA? Or competing for attention?
 5. **Find the friction:** List every reason a visitor hesitates (unanswered question, weak proof, too many choices).
 6. **Write findings:** For each issue — what's wrong, why it hurts, the fix.
@@ -46,8 +47,8 @@ description: Use when reviewing or critiquing an existing website wireframe, lan
   - **Severity** — critical (blocks conversion) / major (leaks conversions) / minor (polish).
   - **Issue** — what's wrong.
   - **Why it matters** — impact on flow/conversion.
-  - **Fix** — concrete change (and which lever it restores).
-- Lead with the highest-impact issues (hero and primary CTA first). Cap the list at the ~5–8 findings that matter; a 20-item list buries the critical three.
+  - **Fix** — concrete change (and which lever it restores, where one applies — pure-polish fixes don't need a lever tag).
+- Order by **severity first**, position second (hero/CTA issues usually are the critical ones, but a critical mid-page issue outranks a minor hero one). Cap the list at the ~5–8 findings that matter; a 20-item list buries the critical three. Missing objection-handling before the CTA is usually worth a slot — don't let polish findings crowd it out.
 - End with the single change you'd make first if only one were allowed.
 
 ## What to Flag
@@ -70,7 +71,7 @@ description: Use when reviewing or critiquing an existing website wireframe, lan
 - [ ] One primary action, obvious and repeated?
 - [ ] Proof sits beside its claims?
 - [ ] Top objections handled before the final CTA?
-- [ ] Every finding paired with a concrete fix + the lever it restores?
+- [ ] Every finding paired with a concrete fix (+ the lever it restores, where applicable)?
 
 ## Related
 

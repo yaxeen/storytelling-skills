@@ -19,7 +19,8 @@ description: Use when planning the structure of a website page, landing page, or
 
 ## Intake (Before Wireframing)
 
-- Confirm: the offer and its one conversion action, exact audience (who buys, in one sentence), traffic source (ads / search / social — arrivals differ in intent), and available proof assets (testimonials, numbers, logos, case results).
+- Confirm: the offer and its one conversion action, exact audience (who buys, in one sentence), traffic source, and available proof assets (testimonials, numbers, logos, case results).
+- **Use the traffic source:** cold arrivals (ads/social) need a heavier problem section and more proof; search arrivals already feel the problem — tighten the top and get to mechanism and offer sooner.
 - Ask if missing when the user can respond; otherwise state assumptions explicitly at the top and proceed — never invent proof or numbers.
 
 ## Output Format
@@ -47,7 +48,7 @@ description: Use when planning the structure of a website page, landing page, or
 - **Hero:** headline = curiosity gap + promise; subhead clarifies; one primary CTA above the fold. Don't bury the hook in branding.
 - **Problem/agitate:** mirror the reader's pain so they think "this is me" (relatability + emotional mirror). The conflict engine starts here.
 - **Solution/mechanism:** introduce the path/method — the "how it works". This is the resolution turn of the three-act.
-- **Proof:** testimonials, logos, data, before/after, screenshots. Place near the claims they support.
+- **Proof:** testimonials, logos, data, before/after, screenshots. Both a dedicated proof section *and* proof distributed beside individual claims — the section carries the weight, the inline pieces defuse specific doubts.
 - **Benefits:** outcomes and the after-state feeling, not feature lists. One idea per block.
 - **Offer:** make exactly what they get unmissable — components, price, terms.
 - **Objections/FAQ:** pre-empt the self-made obstacles ("too expensive", "won't work for me", "no time").

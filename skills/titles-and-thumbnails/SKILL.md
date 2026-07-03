@@ -51,7 +51,7 @@ description: Use when writing YouTube/video titles, designing thumbnail concepts
 - **Scale/number callout:** a big bold number or stakes figure.
 - **Directional cues:** eyes, arrows, or gaze pointing at the focal element.
 - Craft rules:
-  - High contrast, few colors, large readable text (≤3–4 words).
+  - High contrast, few colors, large readable text (≤4 words).
   - Readable as a thumbnail-sized image AND on desktop — check both.
   - Faces large; expressions exaggerated but believable.
   - Text on thumbnail must NOT duplicate the title — add the missing half.
@@ -60,14 +60,14 @@ description: Use when writing YouTube/video titles, designing thumbnail concepts
 
 1. **Intake.** Confirm: topic and what the video actually delivers (real numbers, real outcome), target viewer in one sentence, and channel tone. Ask if missing when the user can respond; otherwise state assumptions up front — never invent "concrete" numbers silently.
 2. **Variants.** Write 5–10 titles across ≥4 formulas; note which formula each uses.
-3. **Select.** Recommend 1–2, saying which gap each opens and who it qualifies.
+3. **Select.** Show all variants, then recommend 1–2, saying which gap each opens and who it qualifies.
 4. **Pair.** For each recommended title, deliver a thumbnail brief: focal point, expression/emotion, overlay text (≤4 words, the *other* half of the story), contrast element, color/craft notes.
-5. **Test.** Run the cover-one-half pairing test and the honesty check; state the results.
+5. **Test.** Run the cover-one-half pairing test and the honesty check on every recommended pair; state the results.
 
 ## Bad → Good Rewrite
 
 - ❌ "Meal Prep Tips for Students" — a topic label: no gap, no stakes, no number, qualifies no one strongly.
-- ✅ "How I Eat All Week on $25 as a College Student (No Ramen)" — result-first + concrete number + qualifier ("college student") + a pattern break ("no ramen") that kills the expected objection.
+- ✅ "How I Eat All Week on $25 as a College Student (No Ramen)" — result-first + concrete number + qualifier ("college student") + a pattern break ("no ramen") that kills the expected objection. (The $25 here is illustrative — in real work the number comes from intake, never invented.)
 
 ## Curiosity Without Clickbait
 
