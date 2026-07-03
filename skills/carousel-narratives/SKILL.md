@@ -1,6 +1,6 @@
 ---
 name: carousel-narratives
-description: Use when writing a multi-slide carousel post for Instagram, LinkedIn, or similar — for any niche or business — when slide 1 must stop the scroll, each slide must earn the swipe, and the last slide must drive a save, share, or comment. Applies the six storytelling levers slide-by-slide.
+description: Use when writing a multi-slide carousel post for Instagram, LinkedIn, or similar — for any niche or business — including repurposing scripts/blogs into slides or diagnosing low saves and swipe-through.
 ---
 
 # Carousel Narratives
@@ -15,6 +15,26 @@ description: Use when writing a multi-slide carousel post for Instagram, LinkedI
 - Repurposing a video script, blog, or tip list into a swipeable post.
 - Diagnosing a carousel with high reach but low saves/swipe-through.
 - Any niche: education, business, design, finance, fitness, faith, personal brand.
+
+## Generation Workflow
+
+1. **Intake.** Confirm: exact audience, goal metric (saves / shares / comments / follows), platform(s), voice, and rough slide count. Ask if missing when the user can respond; otherwise state assumptions up front.
+2. **Map.** Assign every idea to the slide map below. **One idea per slide wins over a shorter deck** — split a crowded slide rather than compress it (5–10 slides total).
+3. **Write.** Deliver slide-by-slide: **slide text + visual direction** (layout intent, emphasis, swipe cue — not fonts/hex codes) for each slide, then the caption.
+4. **Adapt per platform** (below) if posting to more than one.
+5. **Check** against the checklist and say so.
+
+## Platform Deltas (Instagram vs LinkedIn)
+
+| | Instagram | LinkedIn |
+|---|-----------|----------|
+| Format | 4:5 (1080×1350) image slides | PDF document post, square or 4:5 |
+| Text density | ~2-second skim per slide | Tolerates ~20–30% more text; add one supporting example |
+| Tone | Casual, emoji fine | Peer-to-peer professional, minimal emoji |
+| Best CTA | Save (reference value) | Comment — comments drive LinkedIn reach more than saves |
+| Caption | Hook line + compressed story + 3–5 hashtags | First-person story opening; 2–3 hashtags max |
+
+- Posting to both? Write **one core deck + a short adaptation layer** per platform (headline variant, CTA variant, density note) — don't design twice.
 
 ## Slide Map (Quick Reference)
 
@@ -31,6 +51,12 @@ description: Use when writing a multi-slide carousel post for Instagram, LinkedI
 - Open a curiosity gap wrapped in a relatable feeling — same job as a video hook.
 - Add a swipe cue ("swipe →", an arrow, or a sentence that cuts off).
 - Patterns: bold claim, surprising stat, "Stop doing X", "N mistakes that…", a question that's clearly "about me".
+
+## Slide 2: The Stakes
+
+- Convert the hook's gap into *personal* stakes: why this costs or blocks the reader specifically.
+- Reframe the problem away from the reader's self-blame ("you're not underpaid because you lack skill — it's how you price").
+- End on momentum into the first value beat.
 
 ## The Swipe-Momentum Rule
 
@@ -59,6 +85,17 @@ description: Use when writing a multi-slide carousel post for Instagram, LinkedI
 
 - The caption is a second hook for the feed preview — open a loop in the first line.
 - Expand the story the slides compressed; end with the same CTA as the last slide.
+
+## Common Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| Two ideas squeezed onto one slide to keep the deck short | Split the slide — one idea per slide beats a shorter deck |
+| Same deck posted identically to IG and LinkedIn | One core deck + per-platform adaptation layer |
+| Slide text only, no visual direction | Every slide gets layout intent + emphasis + swipe cue |
+| CTA chosen by habit ("follow!") | Match CTA to goal *and* platform (save on IG, comment on LinkedIn) |
+| Caption written as an afterthought | First caption line is its own hook; caption expands what slides compressed |
+| Best beat placed first, deck flattens after | Order beats by rising value or tension |
 
 ## Carousel Checklist
 

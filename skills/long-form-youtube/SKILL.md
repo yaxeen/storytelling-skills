@@ -1,6 +1,6 @@
 ---
 name: long-form-youtube
-description: Use when writing or structuring a long-form YouTube video script (roughly 6-25 minutes) for any niche or business — when you need an opening that earns the watch, retention across the middle, chaptering and pacing, and a payoff plus end-screen CTA. Applies the six storytelling levers at video scale.
+description: Use when writing, outlining, or structuring a long-form YouTube video script (roughly 6-25 minutes) for any niche or business, or when diagnosing a video that loses viewers partway through.
 ---
 
 # Long-Form YouTube Scripts
@@ -16,6 +16,12 @@ description: Use when writing or structuring a long-form YouTube video script (r
 - Planning structure/outline before scripting, or diagnosing a video that "loses people in the middle".
 - Any niche: education, tech, finance, vlog, documentary, business, faith.
 
+## Packaging First (Before Any Scripting)
+
+- **Lock the title + thumbnail pair before outlining.** The video is written to deliver on the pack, not the other way around — a great script under a weak pack never gets watched. Use **titles-and-thumbnails** for the pair.
+- **Define the target viewer** in one sentence: who exactly should click and stay (stage, situation, private worry) — not "everyone interested in X". Every relatability and stakes choice flows from this. The right viewer retained beats the most viewers clicked.
+- **Intake before outlining:** confirm topic + the user's points, target runtime, audience avatar, goal (subs / sales / session time), and the next video to tease. **Always ask for the user's own points if they say they have them** — never substitute assumed points for real ones. Everything else may be assumed explicitly if the user can't respond.
+
 ## Video Skeleton (Quick Reference)
 
 | Section | Time | Job | Lever focus |
@@ -27,8 +33,11 @@ description: Use when writing or structuring a long-form YouTube video script (r
 | Payoff | near end | Resolve the opening promise | 6 |
 | Outro/CTA | last 15s | One next action | 1 |
 
+- The table's timestamps assume ~10–12 min. For other lengths, scale the body proportionally but keep the hook ≤ 30s and the outro ≤ 15s regardless of runtime; the payoff can live inside the final chapter.
+
 ## The Opening (First 30 Seconds)
 
+- **Confirm the click.** The viewer arrives holding the title/thumbnail's promise; the first line and first frame must visibly match it — restate the exact question or show the exact thing promised. A mismatch reads as bait and triggers the click-away.
 - **Cold open, no throat-clearing.** Cut the "hey guys, welcome back" — start in the hook.
 - **State the promise/stakes** in plain words: what the viewer will gain or avoid.
 - **Open a loop you only close at the end** (the bookend).
@@ -44,7 +53,12 @@ description: Use when writing or structuring a long-form YouTube video script (r
 - Plant **forward references**: "but that's not even the strange part — I'll get to it."
 - Use **micro-cliffhangers** at chapter ends.
 - **Callbacks:** pay off an earlier loop mid-video to reward watching, then open another.
-- Track loops explicitly while scripting: list every loop, where it opens, where it closes.
+- Track loops explicitly while scripting — deliver an **open-loop tracker** with the outline:
+
+  | Loop | Opens | Closes |
+  |------|-------|--------|
+  | "The moment nobody warns you about" (bookend) | 0:05 | payoff |
+  | Chapter 1's promise | end of setup | end of ch. 1 |
 
 ## Chaptering & Pacing
 
@@ -73,8 +87,21 @@ description: Use when writing or structuring a long-form YouTube video script (r
 - **Tease the next video** as a fresh curiosity gap to feed the session.
 - Keep it under ~15 seconds; end-screen window.
 
+## Common Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| Scripting first, packaging later | Lock title + thumbnail first; script to deliver on them |
+| Opening doesn't match the title's promise | First line restates the exact promise (confirm the click) |
+| Chapters as labels ("Background", "Part 2") | Name every chapter as a curiosity gap |
+| Aimed at "everyone interested in X" | One-sentence target viewer; mirror *their* private experience |
+| Loops tracked mentally | Written loop tracker — untracked loops get closed early or forgotten |
+| Even pacing throughout | Alternate dense ↔ story/breath; plan the sag-point re-hook explicitly |
+
 ## Retention Checklist
 
+- [ ] Title + thumbnail locked first, and the opening confirms their promise?
+- [ ] Target viewer defined in one sentence?
 - [ ] Cold open — no intro filler before the hook?
 - [ ] Clear promise + an opening loop closed only at the end?
 - [ ] Every chapter opens the next before closing itself?

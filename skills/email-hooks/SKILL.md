@@ -1,6 +1,6 @@
 ---
 name: email-hooks
-description: Use when writing email or newsletter subject lines, preview text, and opening lines for any niche or business — when the subject must earn the open, the first line must earn the read, and the body must lead to one action. Applies the six storytelling levers to the inbox.
+description: Use when writing email or newsletter subject lines, preview text, opening lines, or full emails (value newsletters, launches, outreach) for any niche or business, or when diagnosing low open or click rates.
 ---
 
 # Email Hooks
@@ -34,10 +34,24 @@ description: Use when writing email or newsletter subject lines, preview text, a
 - **Pattern break:** "Forget [common advice]."
 - **Question that's 'about me':** "Is your [thing] secretly [problem]?"
 - Rules:
-  - Short — front-load the hook word; mobile truncates ~30–40 chars.
+  - Short — front-load the hook word. Visible length varies by client (~35–45 chars on mobile, ~70 on desktop); make the hook land inside the first ~35 characters and keep the whole line under ~50.
   - Lowercase/personal tone often outperforms shouty caps.
   - One idea; avoid two competing gaps.
   - No false promise — the body must pay it off or trust (and deliverability) erodes.
+
+## Generation Workflow
+
+1. **Intake.** Confirm: the offer/message, exact audience and list warmth, sender voice, goal (clicks / replies / sales), and email type (value newsletter vs launch/promo). Ask if missing when the user can respond; otherwise state assumptions up front — never invent prices, dates, or claims silently.
+2. **Variants.** Write 3–5 subject lines across different formulas, each with its paired preview text. Label the formula.
+3. **Select.** Recommend one pair and say why (which gap, who it qualifies, char count).
+4. **Write the body** per Body Flow, sized ~150–300 words for most emails; longer only when the story earns it.
+5. **Check** against the checklist and state the result.
+
+## Launch/Promo vs Value Emails
+
+- **Value newsletter:** the loop resolves into the insight itself; CTA is soft (read more, reply). Tension comes from the story.
+- **Launch/promo:** tension comes from a real decision with real stakes. Urgency and scarcity are allowed **only when true** (an actual deadline, an actual price change) — fabricated countdowns burn the list. Name the offer plainly; the story earns the pitch, it doesn't hide it.
+- A **P.S. line** is prime real estate in promo emails — restate the CTA or deadline there for skimmers who jump to the end.
 
 ## Preview Text Pairing
 
@@ -63,9 +77,25 @@ description: Use when writing email or newsletter subject lines, preview text, a
 - Make it specific and low-friction ("Reply 'yes'", "Grab your spot", one link).
 - Optionally bookend: echo the subject's phrase right before the CTA.
 
+## Bad → Good Rewrite
+
+- ❌ Subject: "My new watercolor course is here!" — an announcement about *you*: no gap, no feeling, reads as promo in the half-second scan.
+- ✅ Subject: "you don't need talent to paint this" — emotional mirror (the "I'm not artistic" fear) + curiosity gap (paint *what*?) + lowercase personal tone; 34 chars, hook fully visible on mobile.
+
+## Common Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| Subject announces instead of opening a gap | Lead with the reader's feeling or question, not your news |
+| Preview text left to chance | Write it — extend the gap, never restate the subject |
+| Invented numbers/prices/deadlines | Ask for real ones or flag placeholders explicitly |
+| Fake urgency | Only claim scarcity that's true; trust compounds across sends |
+| One email doing three jobs | One idea, one CTA; save the rest for the next send |
+| Greeting + warm-up before the hook | First sentence opens the loop |
+
 ## Email Checklist
 
-- [ ] Subject opens a gap and fits mobile truncation?
+- [ ] Subject opens a gap, hook inside the first ~35 characters?
 - [ ] Preview text extends (not repeats) the subject?
 - [ ] First line opens a loop, no warm-up filler?
 - [ ] Body is one idea, skimmable, rising toward the CTA?

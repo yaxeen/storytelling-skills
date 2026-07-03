@@ -26,6 +26,10 @@ description: Use when reviewing or critiquing an existing website wireframe, lan
 | Conversion path | Is there one obvious next action? | Many/competing CTAs; no CTA above fold |
 | Friction | What makes a visitor hesitate or leave? | Unanswered objections; cognitive load |
 
+## Intake (Before Reviewing)
+
+- A review without context grades against guesses. Confirm first: the page's **one conversion goal**, the target visitor in a sentence, and the main traffic source. Ask if missing when the user can respond; otherwise state your assumed goal explicitly — every finding depends on it.
+
 ## Review Process
 
 1. **5-second test:** Look only at the hero. Can you state what it offers and what to do next? If not, that's finding #1.
@@ -39,10 +43,12 @@ description: Use when reviewing or critiquing an existing website wireframe, lan
 
 - For each issue, return:
   - **Section** — where it is.
+  - **Severity** — critical (blocks conversion) / major (leaks conversions) / minor (polish).
   - **Issue** — what's wrong.
   - **Why it matters** — impact on flow/conversion.
   - **Fix** — concrete change (and which lever it restores).
-- Lead with the highest-impact issues (hero and primary CTA first).
+- Lead with the highest-impact issues (hero and primary CTA first). Cap the list at the ~5–8 findings that matter; a 20-item list buries the critical three.
+- End with the single change you'd make first if only one were allowed.
 
 ## What to Flag
 

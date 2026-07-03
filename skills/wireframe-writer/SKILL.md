@@ -1,11 +1,12 @@
 ---
 name: wireframe-writer
-description: Use when planning the structure of a website page, landing page, or sales page for any niche or business — when you need a section-by-section wireframe that flows as a narrative toward one conversion. Maps the six storytelling levers onto page sections. For critiquing an existing page, use wireframe-reviewer.
+description: Use when planning the structure of a website page, landing page, or sales page for any niche or business — when you need a section-by-section wireframe aimed at one conversion. For critiquing an existing page, use wireframe-reviewer.
 ---
 
 # Wireframe Writer
 
 - A high-converting page is a story scrolled top to bottom: hero → problem → proof → offer → objections → action.
+- This arc synthesizes the proven copywriting frameworks: **PAS** (problem–agitate–solve) drives sections 2–3, **AIDA** (attention–interest–desire–action) is the rising-conviction order, and **StoryBrand** supplies the stance — the visitor is the hero, the brand is the guide.
 - Each section has one job and hands momentum to the next, the same way a video chains open loops.
 - Built on the six levers — see **storytelling-hooks**. Recap: 1. Curiosity gap · 2. Emotional mirror · 3. Conflict engine · 4. Relatability · 5. Pattern + surprise · 6. Three-act.
 
@@ -15,6 +16,11 @@ description: Use when planning the structure of a website page, landing page, or
 - Turning an offer, product, or message into a section-by-section wireframe.
 - Briefing a designer/developer with intent (the "why" of each block), not just boxes.
 - Any niche or business. For reviewing an existing page, use **wireframe-reviewer**.
+
+## Intake (Before Wireframing)
+
+- Confirm: the offer and its one conversion action, exact audience (who buys, in one sentence), traffic source (ads / search / social — arrivals differ in intent), and available proof assets (testimonials, numbers, logos, case results).
+- Ask if missing when the user can respond; otherwise state assumptions explicitly at the top and proceed — never invent proof or numbers.
 
 ## Output Format
 
@@ -54,6 +60,17 @@ description: Use when planning the structure of a website page, landing page, or
 - Order by rising conviction: hook → relevance → belief → desire → action.
 - Match section length to its weight; cut anything that doesn't move toward the CTA.
 - CTAs repeat at natural decision points (after hero, after proof, at the end).
+
+## Common Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| Hero about the company ("Crafting Digital Experiences") | Hero about the visitor's outcome, in their words |
+| Proof stacked in one distant section | Distribute proof beside the specific claims it supports |
+| Every section same length and weight | Size sections by their persuasion weight; cut ruthlessly |
+| Navigation full of exits on a landing page | Strip or minimize nav — one page, one action |
+| Desktop-only thinking | Hero + CTA must work in a single mobile viewport |
+| Proof or numbers invented to fill the template | Use only real assets from intake; mark gaps as "needs proof" |
 
 ## Wireframe Checklist
 

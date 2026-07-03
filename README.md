@@ -107,7 +107,8 @@ storytelling-skills/
 ## How It Works
 
 - Each skill has YAML frontmatter with a `name` and a `description` written as a "Use when…" trigger, so Claude Code knows exactly when to load it.
-- Content is written in tight, scannable bullets with quick-reference tables and an end-of-skill checklist.
+- Content is written in tight, scannable bullets with quick-reference tables, a generation workflow (intake → variants → select → deliver), a bad→good rewrite example, a common-mistakes table, and an end-of-skill checklist.
+- The suite optimizes for the **right** audience, not the most eyeballs: hooks, titles, and pages qualify the viewer they want, because wrong-audience attention kills retention and conversion.
 - `storytelling-hooks` is the canonical core; the other six recap the six levers in one line and link back, so each works standalone but reinforces the suite.
 
 ## Development
