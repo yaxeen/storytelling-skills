@@ -25,6 +25,7 @@ description: Use when planning the structure of a website page, landing page, or
 
 ## Output Format
 
+- Read **patterns.md** (same folder) for headline, problem-opener, mechanism, CTA, and objection copy-direction structures — adapt, don't copy.
 - For each section, specify three things:
   - **Job** — what this section must accomplish.
   - **Message** — the core line/idea (copy direction, not final copy).

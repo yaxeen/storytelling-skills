@@ -59,7 +59,7 @@ description: Use when writing YouTube/video titles, designing thumbnail concepts
 ## Generation Workflow
 
 1. **Intake.** Confirm: topic and what the video actually delivers (real numbers, real outcome), target viewer in one sentence, and channel tone. Ask if missing when the user can respond; otherwise state assumptions up front — never invent "concrete" numbers silently.
-2. **Variants.** Write 5–10 titles across ≥4 formulas; note which formula each uses.
+2. **Variants.** Write 5–10 titles across ≥4 formulas; note which formula each uses. Read **patterns.md** (same folder) for fill-in structures per formula plus thumbnail concepts and overlay pairings — adapt, don't copy.
 3. **Select.** Show all variants, then recommend 1–2, saying which gap each opens and who it qualifies.
 4. **Pair.** For each recommended title, deliver a thumbnail brief: focal point, expression/emotion, overlay text (≤4 words, the *other* half of the story), contrast element, color/craft notes.
 5. **Test.** Run the cover-one-half pairing test and the honesty check on every recommended pair; state the results.

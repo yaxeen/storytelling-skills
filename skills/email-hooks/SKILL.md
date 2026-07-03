@@ -42,7 +42,7 @@ description: Use when writing email or newsletter subject lines, preview text, o
 ## Generation Workflow
 
 1. **Intake.** Confirm: the offer/message, exact audience and list warmth, sender voice, goal (clicks / replies / sales), and email type (value newsletter vs launch/promo). Ask if missing when the user can respond; otherwise state assumptions up front — never invent prices, dates, or claims silently.
-2. **Variants.** Write 3–5 subject lines across different formulas, each with its paired preview text. Label the formula.
+2. **Variants.** Write 3–5 subject lines across different formulas, each with its paired preview text. Label the formula. Read **patterns.md** (same folder) for subject+preview pair structures, opening lines, and CTA lines — adapt, don't copy.
 3. **Select.** Recommend one pair and say why (which gap, who it qualifies, char count).
 4. **Write the body** per Body Flow, sized ~150–300 words for most emails; longer only when the story earns it.
 5. **Check** against the checklist and state the result.

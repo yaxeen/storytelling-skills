@@ -91,7 +91,7 @@ A Reel/Short/TikTok hook is not one line — it's three elements landing at 0:00
 When asked to write a hook or script:
 
 1. **Intake.** Confirm before writing: niche, *exact* audience (who should follow, not just who might watch), platform, goal (follows / saves / sales / views), and tone. If key facts are missing, ask up to 2 questions when the user can respond; otherwise state your assumptions explicitly at the top and proceed.
-2. **Variants.** Write 5+ hook options, each stacking 2–3 levers. Label the levers per variant.
+2. **Variants.** Read **patterns.md** (same folder) first — fill-in structures per lever, first-frame concepts, overlay pairings — then write 5+ hook options, each stacking 2–3 levers, levers labeled. Adapt the patterns to the niche; never reuse a worked example verbatim, even when it matches the topic.
 3. **Select.** Score against the Pre-Publish Checklist; recommend one and say why (which gaps it opens, who it qualifies).
 4. **Script.** Expand the winner using the lever order below, specifying all three hook layers for the opening.
 

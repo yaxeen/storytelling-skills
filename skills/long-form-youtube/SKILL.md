@@ -35,6 +35,8 @@ description: Use when writing, outlining, or structuring a long-form YouTube vid
 
 - The table's timestamps assume ~10–12 min. For other lengths, scale the body proportionally but keep the hook ≤ 30s and the outro ≤ 15s regardless of runtime; the payoff can live inside the final chapter.
 
+- When drafting hooks, re-hooks, chapter titles, or teases, read **patterns.md** (same folder) for fill-in structures — adapt, don't copy.
+
 ## The Opening (First 30 Seconds)
 
 - **Confirm the click.** The viewer arrives holding the title/thumbnail's promise; the first line and first frame must visibly match it — restate the exact question or show the exact thing promised. A mismatch reads as bait and triggers the click-away.

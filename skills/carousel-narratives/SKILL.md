@@ -20,7 +20,7 @@ description: Use when writing a multi-slide carousel post for Instagram, LinkedI
 
 1. **Intake.** Confirm: exact audience, goal metric (saves / shares / comments / follows), platform(s), voice, and rough slide count. Ask if missing when the user can respond; otherwise state assumptions up front.
 2. **Map.** Assign every idea to the slide map below. **One idea per slide wins over a shorter deck** — split a crowded slide rather than compress it (5–10 slides total).
-3. **Write.** Deliver slide-by-slide: **slide text + visual direction** (layout intent, emphasis, swipe cue — not fonts/hex codes) for each slide, then the caption.
+3. **Write.** Deliver slide-by-slide: **slide text + visual direction** (layout intent, emphasis, swipe cue — not fonts/hex codes) for each slide, then the caption. Read **patterns.md** (same folder) for slide-1 hooks, transition loops, CTA lines, and caption openers — adapt, don't copy.
 4. **Adapt per platform** (below) if posting to more than one.
 5. **Check** against the checklist and say so.
 
