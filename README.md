@@ -1,11 +1,11 @@
 # Storytelling Skills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-7-blue.svg)](skills/)
+[![Skills](https://img.shields.io/badge/skills-9-blue.svg)](skills/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-8A2BE2.svg)](https://claude.com/claude-code)
 [![Package skills](https://github.com/yaxeen/storytelling-skills/actions/workflows/package-skills.yml/badge.svg)](https://github.com/yaxeen/storytelling-skills/actions/workflows/package-skills.yml)
 
-A suite of seven [Claude Code](https://claude.com/claude-code) skills that apply the same six psychology-based storytelling levers across every content format — short-form video, long-form YouTube, titles & thumbnails, carousels, email, and website wireframes.
+A suite of nine [Claude Code](https://claude.com/claude-code) skills that apply the same six psychology-based storytelling levers across every content format — short-form video, long-form YouTube, titles & thumbnails, carousels, email, and website wireframes — plus a post-publish loop that diagnoses retention and extracts your channel's winning formula from its own data.
 
 General-purpose: built for **any niche, any business, any workspace**. No format-specific jargon, no narrow examples.
 
@@ -35,6 +35,8 @@ Every skill is built on one shared engine — six levers that make the human bra
 | [email-hooks](skills/email-hooks/SKILL.md) | Write subject lines, preview text, and email openers |
 | [wireframe-writer](skills/wireframe-writer/SKILL.md) | Plan a landing/sales page as a narrative → conversion arc |
 | [wireframe-reviewer](skills/wireframe-reviewer/SKILL.md) | Critique an existing page on flow, hierarchy & conversion |
+| [retention-audit](skills/retention-audit/SKILL.md) | Diagnose a flopped video from its retention graph, zone by zone |
+| [channel-formula](skills/channel-formula/SKILL.md) | Extract any channel's winning formula from its winners vs flops |
 
 ## Install
 
@@ -84,6 +86,8 @@ Once installed, the skills activate automatically based on what you ask:
 | "Write a subject line for my newsletter" | `email-hooks` |
 | "Plan the wireframe for my landing page" | `wireframe-writer` |
 | "Review this page structure" | `wireframe-reviewer` |
+| "My video flopped — here's the retention graph" | `retention-audit` |
+| "Why do some of my videos work and others die?" | `channel-formula` |
 
 You can also invoke any skill explicitly by name.
 
@@ -107,9 +111,10 @@ storytelling-skills/
 ## How It Works
 
 - Each skill has YAML frontmatter with a `name` and a `description` written as a "Use when…" trigger, so Claude Code knows exactly when to load it.
-- Content is written in tight, scannable bullets with quick-reference tables, a generation workflow (intake → variants → select → deliver), a bad→good rewrite example, a common-mistakes table, and an end-of-skill checklist.
+- Content is written in tight, scannable bullets with quick-reference tables, a clear workflow (intake → work → deliver), a common-mistakes table, and an end-of-skill checklist; generator skills add a bad→good rewrite example and a `patterns.md` swipe file.
 - The suite optimizes for the **right** audience, not the most eyeballs: hooks, titles, and pages qualify the viewer they want, because wrong-audience attention kills retention and conversion.
-- `storytelling-hooks` is the canonical core; the other six recap the six levers in one line and link back, so each works standalone but reinforces the suite.
+- `storytelling-hooks` is the canonical core; the other eight recap the six levers in one line and link back, so each works standalone but reinforces the suite.
+- `retention-audit` + `channel-formula` close the loop after publishing: audit where a video died, extract what promise the winners keep, feed both into the next script.
 
 ## Development
 
